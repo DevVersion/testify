@@ -1,0 +1,23 @@
+{
+  "name": "testify",
+  "version": "0.0.1",
+  "description": "Testing Browserify Watchify and Babelify",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "babelify",
+    "watchify",
+    "babelify",
+    "ecma16"
+  ],
+  "author": "Paul Gschwendtner",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.1.18",
+    "babelify": "^7.2.0",
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0"
+  }
+}
